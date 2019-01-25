@@ -1,6 +1,6 @@
 <html>
 <head>
-<title> Мой Сайт! </title>
+
 </head>
 <body bgcolor = black>
 <font color = white size=8>
