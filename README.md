@@ -1,11 +1,16 @@
-<html>
-<head>
+﻿<html>
+<head> <title> Топ сторінка </title>
+<body background="gg1.gif" width=1440 height=900>
+<font color="red" size=8>
+ТОП САЙТ
 
-</head>
-<body bgcolor = black>
-<font color = white size=8>
-<center> Практикуюсь делать сайты <br>
-<img src="GG.jpg"> </center>
+
+
+
+
+
+
+
+
 </body>
 </html>
-
